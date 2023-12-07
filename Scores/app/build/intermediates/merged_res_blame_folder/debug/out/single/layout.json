@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.example.scores.app-mergeDebugResources-33:/layout/activity_score.xml",
+        "source": "com.example.scores.app-main-36:/layout/activity_score.xml"
+    },
+    {
+        "merged": "com.example.scores.app-mergeDebugResources-33:/layout/activity_main.xml",
+        "source": "com.example.scores.app-main-36:/layout/activity_main.xml"
+    }
+]

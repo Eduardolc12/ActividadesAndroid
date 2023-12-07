@@ -1,0 +1,3 @@
+com.example.scores.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

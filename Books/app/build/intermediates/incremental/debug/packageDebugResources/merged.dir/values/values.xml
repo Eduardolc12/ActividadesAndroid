@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="yellow">#ffff00</color>
+    <string name="app_name">Books</string>
+    <string name="book_authors_label">Book authors</string>
+    <string name="book_title_label">Book title</string>
+    <string name="comment_label">Comment</string>
+    <string name="rating_label">Rating</string>
+    <string name="save_btn">Save</string>
+    <style name="Base.Theme.Books" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.Books" parent="Base.Theme.Books"/>
+</resources>
